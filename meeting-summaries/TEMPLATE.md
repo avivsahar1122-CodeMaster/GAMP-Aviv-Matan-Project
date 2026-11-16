@@ -1,9 +1,8 @@
-# Meeting Summary - YYYY-MM-DD
+# Meeting Summary #N – Title
+**Date:** Month DD, YYYY
+**Participants:** George Kour (Mentor), Aviv Sahar, Matan Guetta
 
-**Participants:** Aviv, Matan, George
-**Meeting type:** Mentor meeting
-
-## Topics Discussed
+## Overview
 - 
 
 ## Decisions
@@ -13,10 +12,9 @@
 - 
 
 ## Action Items
-| Task | Owner | Due date |
+| Task | Owner | Due |
 |---|---|---|
 | | | |
 
 ## Next Meeting
-- Date:
-- Goals:
+**Monday, Month DD, YYYY, 16:00**
