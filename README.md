@@ -3,10 +3,13 @@
 Annual workshop project.
 
 ## Team
-- **Aviv Sahar**
-- **Matan Guetta**
+| Name | Role | Email |
+|---|---|---|
+| Aviv Sahar | Team member | avivsa2@mta.ac.il |
+| Matan Guetta | Team member | matangu2@mta.ac.il |
+| George Kour | Mentor | georgeko@mta.ac.il |
 
-**Mentor:** George Kour
+> **Note:** The team also communicates through a dedicated Telegram group.
 
 ## Meeting Schedule
 - **Frequency:** Every two weeks, Mondays at 16:00 (starting November 16, 2026)
