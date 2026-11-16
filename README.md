@@ -8,6 +8,10 @@ Annual workshop project.
 
 **Mentor:** George Kour
 
+## Meeting Schedule
+- **Frequency:** Every two weeks, Mondays at 16:00 (starting November 16, 2026)
+- **Next meeting:** Monday, November 30, 2026, 16:00
+
 ## Repository Structure
 | Folder | Contents |
 |---|---|
