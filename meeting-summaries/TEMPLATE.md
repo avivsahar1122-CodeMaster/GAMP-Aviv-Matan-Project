@@ -1,5 +1,5 @@
 # Meeting Summary #N – Title
-**Date:** Month DD, YYYY
+**Date:** Month DD, YYYY  
 **Participants:** George Kour (Mentor), Aviv Sahar, Matan Guetta
 
 ## Overview
