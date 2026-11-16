@@ -4,9 +4,9 @@ Annual workshop project.
 
 ## Team
 - **Aviv Sahar**
-- **Matan**
+- **Matan Guetta**
 
-**Mentor:** George
+**Mentor:** George Kour
 
 ## Repository Structure
 | Folder | Contents |
